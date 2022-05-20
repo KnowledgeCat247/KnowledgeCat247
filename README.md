@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KnowledgeCat247
+- 👀 I’m interested in C++, Java, C#, Python, Unity 3D
+- 🌱 I’m currently learning C++, Java, Python, Unity 3D
+- 💞️ I’m looking to collaborate on Whatever project
+- 📫 You can reach me at my email: mrroboto2525@gmail.com , or on discord with: KnowledgeCat247#7408
